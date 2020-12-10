@@ -1,5 +1,5 @@
-##PokerHands-Kata 
-###from The Coding Dojo Handbook by Emily Bache
+## PokerHands-Kata 
+### from The Coding Dojo Handbook by Emily Bache
 In this Kata I wanted see how it feels to do TDD with Scala using the scalatest-framework.
 
 scalatest offers various syntax flavours. Here I used flatspec. flatspec tests are very good readable.
